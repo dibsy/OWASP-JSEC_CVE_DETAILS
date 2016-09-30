@@ -15,5 +15,12 @@ https://www.owasp.org/index.php/OWASP_JSEC_CVE_Details
 
 ### www.exploitsearch.net, is an attempt at cross referencing/correlating exploits and vulnerability data from various sources and making the resulting database available to everyone. 
 
+### How to contribute ?
+#### 1.Clone or Download the Project 
+#### 2.Open Eclipse
+#### 3.Import the project as existing projects in workspace
+#### 4.Run the JSEC.java file 
 
-Project url : https://sourceforge.net/projects/jseccvedetails/
+### How to get the executable Jar file
+##### Either you import the project and export it as a JAR or
+##### Download from sourceforge
