@@ -4,7 +4,7 @@
 
 ### OWASP JSEC CVE DETAILS is an opensource application developed in Java that uses the api provided by cvedetails.com to receive latest CVE updates. Apart from fetching the latest CVEs, it can also be used to search for expoits and vulnerabilities from exploitsearch.net. This tool is used to find and gather information related to CVEs.
 
-
+![GitHub Logo](screenshot.png)
 
 
 This project has now been officially approved by OWASP. Here is the link to the project details on OWASP Website
