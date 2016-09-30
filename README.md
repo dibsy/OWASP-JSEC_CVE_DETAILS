@@ -1,4 +1,4 @@
-![GitHub Logo](owasp_banner.png)
+![GitHub Logo](OWASP_CONNECTOR_BANNER_TOP 2.jpg)
 
 # OWASP JSEC_CVE_DETAILS
 
