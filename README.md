@@ -1,4 +1,5 @@
 ![GitHub Logo](owasp_banner.png)
+![GitHub Logo](JSEC_CVE_Details/src/com/dibsyhex/views/logo.png)
 
 JSEC_CVE_DETAILS
 ================
