@@ -1,6 +1,3 @@
-
-
-
 package com.dibsyhex.models;
 
 import java.io.BufferedReader;
@@ -31,7 +28,8 @@ public class HttpJsonResponse {
 			BufferedReader bufferedReader=new BufferedReader(new InputStreamReader(httpURLConnection.getInputStream()));
 			File file=new File("JsonResponse.json");//Make sure to delete the file
 			
-			if(!file.exists()){
+			if(file.exists()){
+				file.delete();
 				file.createNewFile();
 			}
 			
