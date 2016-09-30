@@ -22,7 +22,7 @@ extends JWindow {
         this.setVisible(true);
         this.setLocationRelativeTo(null);
         this.setBackground(new Color(0, 255, 0, 0));
-        JLabel image = new JLabel(new ImageIcon(this.getClass().getResource("JSEC_CVE_DETAILS.png")));
+        JLabel image = new JLabel(new ImageIcon(this.getClass().getResource("logo.png")));
         this.add(image);
     }
 
