@@ -1,3 +1,5 @@
+![GitHub Logo](owasp_banner.png)
+
 JSEC_CVE_DETAILS
 ================
 
